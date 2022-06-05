@@ -1,0 +1,2 @@
+# minecraft_serverip
+一個基礎可以獲得伺服器資訊的Python檔案
