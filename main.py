@@ -1,11 +1,3 @@
-'''
-Author: Travis CI travis@travis-ci.org
-Date: 2022-06-05 17:58:45
-LastEditors: Travis CI travis@travis-ci.org
-LastEditTime: 2022-06-05 18:29:22
-FilePath: \c:Users\morni\OneDrive - 晨飛\桌面\morningfly的機器人\bot.py
-Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
-'''
 import requests
 import json
 ipp = input()
